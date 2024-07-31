@@ -1,6 +1,4 @@
 
-### General Assembly Software Engineering Immersive
-
 # Full Stack Application - Yudio!
 ### By [Patrick](https://github.com/p-g-lai)
 
